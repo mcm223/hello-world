@@ -1,2 +1,2 @@
-# hello-world
-CSCI E-15 New Repo
+# Practice repository for DWA
+<https://dwa15.com>
